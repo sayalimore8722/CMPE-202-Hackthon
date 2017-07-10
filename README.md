@@ -1,6 +1,10 @@
 # CMPE-202-Team-Hackathon
-Team Project Gas pump station(Demo Video link: https://youtu.be/ma_XtUe7w2Q
+Team Project Gas pump station (Demo Video link: https://youtu.be/ma_XtUe7w2Q
 
+Design Patterns Used :
+1. Command Pattern
+2. State Pattern
+3. Chain of Responsibility Pattern
 
 A gas pump machine contains a numeric keypad, a credit card reader (with receipt printer) and a display screen with two rows of four buttons (as shown below).  The two rows of buttons map to available options displayed on the screen for customers to select. Options displayed on the screen depends on which step the machine is currently on while waiting for customer actions.
 
